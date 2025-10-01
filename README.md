@@ -1,2 +1,3 @@
 # This Is My Local Repo
-this is my main branch
+this is 1st line in my main branch
+this is 2nd line in my main branch
